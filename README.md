@@ -1,5 +1,4 @@
 # airbnb-clone-project
-airbnb-clone-project
 This project is a full-stack clone of the Airbnb platform, designed to replicate core features such as property listings, user authentication, search functionality, booking management, and a responsive user interface.
 
 Features:
